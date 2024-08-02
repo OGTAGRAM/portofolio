@@ -1,4 +1,4 @@
-# Devops And Cloud Engineer
+# Devops
 
 ### Education
 SMK Telkom Sidoarjo
